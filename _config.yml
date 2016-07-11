@@ -2,8 +2,6 @@ title:            Laura Leal-Taixe’s site
 description:      Welcome to Laura’s world!
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://lealtaixe.github.io
-#url:             http://localhost:4000
-#http://lealtaixe.github.io
 disqus_shortname: lealtaixe
 
 # Owner/author information
