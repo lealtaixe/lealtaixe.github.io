@@ -75,5 +75,5 @@ Ich spreche ein bisschen <strong>Deutsch</strong>.
 
     
     
-You can also download my [full CV](https://www.dropbox.com/s/k97xdtswlfefn8r/CV-PontTuset.pdf?dl=0).
+You can also download my [full CV]({{ site.url }}/images/CV/LealTaixe-CV.pdf).
 
