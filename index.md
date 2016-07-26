@@ -11,6 +11,11 @@ image:
 
 <ul>
 
+<li>New <a href="https://arxiv.org/pdf/1607.07304"><font color="red"><strong>paper</strong></font></a> on integration of multi-level features for multi-target tracking! </li>
+
+<br>
+
+
 <li>New <a href="https://arxiv.org/pdf/1604.07866.pdf"><font color="red"><strong>paper</strong></font></a> on tracking with siamese neural networks to be presented at the DeepVision workshop at CVPR 2016! </li>
 
 <br>
