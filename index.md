@@ -15,6 +15,9 @@ image:
 
 <br>
 
+<li>Daniel Cremers, Ian Reid, Rene Vidal and myself will be organizing a Dagstuhl Seminar on <a href="http://www.dagstuhl.de/en/program/calendar/semhp/?semnr=17391"><strong>Deep Learning for Computer Vision</strong></font></a> in September 2017! </li>
+
+<br>
 
 <li>New <a href="https://arxiv.org/pdf/1604.07866.pdf"><font color="red"><strong>paper</strong></font></a> on tracking with siamese neural networks to be presented at the DeepVision workshop at CVPR 2016! </li>
 

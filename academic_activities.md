@@ -30,13 +30,13 @@ Topics: Structure From Motion.
  
 ### Organization
 
-* <font color="red"><strong>New!!</strong></font> Organizer of the Deep Learning for Computer Vision Dagstuhl Seminar, together with Daniel Cremers, Ian Reid and Rene Vidal.
+* <font color="red"><strong>New!!</strong></font> Organizer of the [Deep Learning for Computer Vision Dagstuhl Seminar](http://www.dagstuhl.de/en/program/calendar/semhp/?semnr=17391), together with [Daniel Cremers](https://vision.in.tum.de/members/cremers), [Ian Reid](http://cs.adelaide.edu.au/~ianr/) and [Rene Vidal](http://cis.jhu.edu/~rvidal/).
 
 * <font color="red"><strong>New!!</strong></font>Organizer of the [2nd Workshop on Benchmarking Multi-Target Tracking](http://motchallenge.net/workshops/bmtt2016).
 
-* Creator of the [Multiple Object Tracking Benchmark](https://motchallenge.net/), together with Anton Milan, Ian Reid, Daniel Cremers, Stefan Roth and Konrad Schindler.
+* Creator of the [Multiple Object Tracking Benchmark](https://motchallenge.net/), together with [Anton Milan](http://www.milanton.de/), [Ian Reid](http://cs.adelaide.edu.au/~ianr/), [Daniel Cremers](https://vision.in.tum.de/members/cremers), [Stefan Roth](http://www.visinf.tu-darmstadt.de/team_members/sroth/sroth.en.jsp) and [Konrad Schindler](http://www.prs.igp.ethz.ch/content/specialinterest/baug/institute-igp/photogrammetry-and-remote-sensing/en/group/people/person-detail.html?persid=143986).
 
-* Coordinator of the [16th Workshop on Theoretic Foundations of Computer Vision](http://www.dagstuhl.de/de/programm/kalender/semhp/?semnr=15081) on Holistic Scene Understanding, together with Jiri Matas, Vittorio Murino and Bodo Rosenhahn.
+* Coordinator of the [16th Workshop on Theoretic Foundations of Computer Vision](http://www.dagstuhl.de/de/programm/kalender/semhp/?semnr=15081) on Holistic Scene Understanding, together with [Jiri Matas](http://cmp.felk.cvut.cz/~matas/), [Vittorio Murino](http://profs.sci.univr.it/~swan/) and [Bodo Rosenhahn](http://www.tnt.uni-hannover.de/staff/rosenhahn/).
 
 * Organizer of the [1st Workshop on Benchmarking Multi-Target Tracking](http://motchallenge.net/workshops/bmtt2015).
 
