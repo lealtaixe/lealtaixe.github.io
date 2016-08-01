@@ -11,11 +11,11 @@ image:
 
 <ul>
 
-<li>Check out or new <a href="https://arxiv.org/pdf/1607.07304"><font color="red"><strong>paper</strong></a> on integration of multi-level features for multi-target tracking! </li>
+<li>Check out or new <a href="https://arxiv.org/pdf/1607.07304"><font color="red"><strong>paper</strong></font></a> on integration of multi-level features for multi-target tracking! </li>
 
 <br>
 
-<li>Daniel Cremers, Ian Reid, Rene Vidal and myself will be organizing a Dagstuhl Seminar on <a href="http://www.dagstuhl.de/en/program/calendar/semhp/?semnr=17391"><strong>Deep Learning for Computer Vision</strong></font></a> in September 2017! </li>
+<li>Daniel Cremers, Ian Reid, Rene Vidal and myself will be organizing a Dagstuhl Seminar on <a href="http://www.dagstuhl.de/en/program/calendar/semhp/?semnr=17391"><strong>Deep Learning for Computer Vision</strong></a> in September 2017! </li>
 
 <br>
 
