@@ -15,9 +15,10 @@
 \begin{howpublished}\format[HTMLChars,RemoveLatexCommands]{\howpublished}.\end{howpublished}
 \begin{note}\format[HTMLChars,RemoveLatexCommands]{\note}.\end{note}
 <br />
+
 <a href="javascript:toggleBibtex('\format{\bibtexkey}')">[BibTeX]</a>
 \begin{url}<a href="\format{\url}">[URL]</a>\end{url}
-\begin{pllinks}\format[WrapFileLinks(<a href="\p:\f">\d</a>)]{\pllinks}\end{pllinks} 
+\begin{pllinks}\format[Replace(://,!!!!!),WrapFileLinks(<a href="\p\f">\d</a>),Replace(!!!!!,://)]{\pllinks}\end{pllinks} 
 </p>
 
 <div id="bib_\format{\bibtexkey}" class="bibtex noshow">
