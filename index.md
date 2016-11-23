@@ -11,6 +11,14 @@ image:
 
 <ul>
 
+<li>Check out or new <a href="https://arxiv.org/abs/1611.05198"><font color="red"><strong>paper</strong></font></a> on one-shot video segmentation! State-of-the-art results on DAVIS by a large margin!</li>
+
+<br>
+
+<li>Our DAAD funding proposal together with Hamid Rezatofighi and Ian Reid has been accepted! Australia, here we come!</li>
+
+<br>
+
 <li>Check out or new <a href="https://arxiv.org/pdf/1607.07304"><font color="red"><strong>paper</strong></font></a> on integration of multi-level features for multi-target tracking! </li>
 
 <br>
