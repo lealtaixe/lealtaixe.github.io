@@ -12,7 +12,7 @@
 \begin{pages}pp. \format[FormatPagesForHTML]{\pages},\end{pages}
 \begin{month}\format[HTMLChars,RemoveBrackets]{\month}\end{month}
 \begin{year}\format[HTMLChars,RemoveBrackets]{\year}.\end{year}
-\begin{howpublished}\format[HTMLChars,RemoveLatexCommands]{\howpublished}.\end{howpublished}
+\begin{journal}\format[HTMLChars,RemoveLatexCommands]{\journal}.\end{journal}
 \begin{note}\format[HTMLChars,RemoveLatexCommands]{\note}.\end{note}
 <br />
 
