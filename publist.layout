@@ -9,11 +9,8 @@
 <p>
 \begin{author}\format[AuthorFirstFirstCommas,HTMLChars,RemoveTilde,RemoveBrackets,RemoveLatexCommands]{\author}\end{author}<br />
 <i>\format[HTMLChars,RemoveTilde,RemoveBrackets,RemoveLatexCommands]{\title}</i><br />
-\begin{pages}pp. \format[FormatPagesForHTML]{\pages},\end{pages}
-\begin{month}\format[HTMLChars,RemoveBrackets]{\month}\end{month}
-\begin{year}\format[HTMLChars,RemoveBrackets]{\year}.\end{year}
 \begin{journal}\format[HTMLChars,RemoveLatexCommands]{\journal}.\end{journal}
-\begin{note}\format[HTMLChars,RemoveLatexCommands]{\note}.\end{note}
+\begin{year}\format[HTMLChars,RemoveBrackets]{\year}.\end{year}
 <br />
 
 <a href="javascript:toggleBibtex('\format{\bibtexkey}')">[BibTeX]</a>
