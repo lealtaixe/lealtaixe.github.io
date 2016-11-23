@@ -8,7 +8,6 @@ comments: false
 ---
 
 
-%<font color="red"><strong>New!!</strong></font>
 
 
 
@@ -30,14 +29,13 @@ Topics: Structure From Motion.
 <br /> Topics: Optical flow, edge detection, Hough transform, shape context, Kalman filter.
 
  
- ### Community
+### Community
 
 * Area chair for GCPR 2017.
 
 * Area chair for WACV 2017.
 
 * Area chair for GCPR 2016.
-
 
 
 ### Organization
