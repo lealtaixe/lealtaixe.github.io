@@ -9,9 +9,9 @@
 <p>
 \begin{author}\format[AuthorFirstFirstCommas,HTMLChars,RemoveTilde,RemoveBrackets,RemoveLatexCommands]{\authorweb}\end{author}<br />
 <strong>\format[HTMLChars,RemoveTilde,RemoveBrackets,RemoveLatexCommands]{\title}</strong><br />
-<i>\begin{journal}\format[HTMLChars,RemoveLatexCommands]{\journal}</i>, \end{journal}
+\begin{journal}<i>\format[HTMLChars,RemoveLatexCommands]{\journal}</i>, \end{journal}
 \begin{publisher}\format[HTMLChars,RemoveBrackets]{\publisher}, \end{publisher}
-\begin{school}\format[HTMLChars,RemoveBrackets]{\school}, \end{school}
+\begin{school}<i>\format[HTMLChars,RemoveBrackets]{\school},</i> \end{school}
 \begin{year}\format[HTMLChars,RemoveBrackets]{\year}.\end{year}
 <br />
 
