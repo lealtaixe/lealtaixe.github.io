@@ -7,11 +7,11 @@
 </td>
 <td>
 <p>
-\begin{author}\format[AuthorFirstFirstCommas,HTMLChars,RemoveTilde,RemoveBrackets,RemoveLatexCommands]{\author}\end{author}<br />
-<i>\format[HTMLChars,RemoveTilde,RemoveBrackets,RemoveLatexCommands]{\title}</i><br />
-\begin{journal}\format[HTMLChars,RemoveLatexCommands]{\journal}, \end{journal}
+\begin{author}\format[AuthorFirstFirstCommas,HTMLChars,RemoveTilde,RemoveBrackets,RemoveLatexCommands]{\authorweb}\end{author}<br />
+<strong>\format[HTMLChars,RemoveTilde,RemoveBrackets,RemoveLatexCommands]{\title}</strong><br />
+\begin{journal}<i>\format[HTMLChars,RemoveLatexCommands]{\journal}</i>, \end{journal}
 \begin{publisher}\format[HTMLChars,RemoveBrackets]{\publisher}, \end{publisher}
-\begin{school}\format[HTMLChars,RemoveBrackets]{\school}, \end{school}
+\begin{school}<i>\format[HTMLChars,RemoveBrackets]{\school},</i> \end{school}
 \begin{year}\format[HTMLChars,RemoveBrackets]{\year}.\end{year}
 <br />
 
@@ -23,7 +23,7 @@
 <div id="bib_\format{\bibtexkey}" class="bibtex noshow">
 <pre>
 @\format[ToLowerCase]{\bibtextype}{\bibtexkey,\begin{author}
-  author = {\format[HTMLChars]{\author}}\end{author}\begin{title},
+  author = {\format[HTMLChars]{\authorweb}}\end{author}\begin{title},
   title = {\format[HTMLChars]{\title}}\end{title}\begin{booktitle},
   booktitle = {\format[HTMLChars]{\booktitle}}\end{booktitle}\begin{journal},
   journal = {\format[HTMLChars]{\journal}}\end{journal}\begin{publisher},
