@@ -11,6 +11,10 @@ image:
 
 <ul>
 
+<li>We will be organizing a full-day Joint BMTT-PETS workshop at CVPR 2017!</li>
+
+<br>
+
 <li>Excited to present our new <a href="https://arxiv.org/abs/1611.07890"><font color="red"><strong>paper</strong></font></a> on image-based localization with spatial LSTMs! </li>
 
 <br>
