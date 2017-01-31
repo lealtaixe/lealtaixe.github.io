@@ -15,7 +15,7 @@ image:
 
 <br>
 
-<li>Excited to present our new <a href="https://arxiv.org/abs/1611.07890"><font color="red"><strong>paper</strong></font></a> on image-based localization with spatial LSTMs! </li>
+<li>Excited to present our new <a href="https://arxiv.org/abs/1611.07890"><font color="red"><strong>paper</strong></font></a> on image-based localization with LSTMs for feature correlation! </li>
 
 <br>
 
