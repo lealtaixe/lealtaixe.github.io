@@ -11,7 +11,7 @@ image:
 
 <ul>
 
-<li>I will be teaching a brand new <a href="https://vision.cs.tum.edu/teaching/ss2017/dl4cv">Deep Learning for Computer Vision</a> <font color="orange"><strong>Dagstuhl Seminar</strong></font> at TUM next semester!</li>
+<li>I will be teaching a brand new <a href="https://vision.cs.tum.edu/teaching/ss2017/dl4cv">Deep Learning for Computer Vision</a> <font color="orange"><strong>lecture</strong></font> at TUM next semester!</li>
 
 <br>
 
