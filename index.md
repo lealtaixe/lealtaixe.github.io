@@ -11,7 +11,11 @@ image:
 
 <ul>
 
-<li>We will be organizing a full-day Joint BMTT-PETS workshop at CVPR 2017!</li>
+<li>I will be teaching a brand new <a href="https://vision.cs.tum.edu/teaching/ss2017/dl4cv">Deep Learning for Computer Vision</a> lecture at TUM next semester!</li>
+
+<br>
+
+<li>We will be organizing a full-day <a href="https://motchallenge.net/workshops/bmtt-pets2017/">Joint BMTT-PETS workshop</a> at CVPR 2017!</li>
 
 <br>
 

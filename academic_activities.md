@@ -13,8 +13,11 @@ comments: false
 
 ### Teaching
 
-* Winter 2016: Organizer of the practical course on [Deep Learning for Computer Vision](https://vision.in.tum.de/teaching/ws2016/dlpractice_ws2016). 
-<br />Topics: neural networks, CNN, RNN, LSTM.
+* Summer 2017: Lecturer of the course on [Deep Learning for Computer Vision](https://vision.cs.tum.edu/teaching/ss2017/dl4cv).
+<br />Topics: introduction to Machine Learning, Neural Networks, CNN, RNN, LSTM.
+
+* Winter 2016: Organizer of the practical course on [Hands-on Deep Learning for Computer Vision](https://vision.in.tum.de/teaching/ws2016/dlpractice_ws2016). 
+<br />Topics: Neural Networks, CNN, RNN, LSTM.
 
 * Winter 2015: Teaching assistant of the [Photogrammetry and 3D Vision Lab](http://www.igp.ethz.ch/photogrammetry/education/lehrveranstaltungen/PCV_HS15).  
 Topics: Structure From Motion.
