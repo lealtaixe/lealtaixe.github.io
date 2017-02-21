@@ -11,11 +11,11 @@ image:
 
 <ul>
 
-<li>I will be teaching a brand new <a href="https://vision.cs.tum.edu/teaching/ss2017/dl4cv">Deep Learning for Computer Vision</a> lecture at TUM next semester!</li>
+<li>I will be teaching a brand new <a href="https://vision.cs.tum.edu/teaching/ss2017/dl4cv">Deep Learning for Computer Vision</a> <font color="orange"><strong>Dagstuhl Seminar</strong></font> at TUM next semester!</li>
 
 <br>
 
-<li>We will be organizing a full-day <a href="https://motchallenge.net/workshops/bmtt-pets2017/">Joint BMTT-PETS workshop</a> at CVPR 2017!</li>
+<li>We will be organizing a full-day <a href="https://motchallenge.net/workshops/bmtt-pets2017/">Joint BMTT-PETS</a> <font color="green"><strong>workshop</strong></font> at CVPR 2017!</li>
 
 <br>
 
@@ -28,7 +28,7 @@ image:
 
 <br>
 
-<li>Our DAAD funding proposal together with Hamid Rezatofighi and Ian Reid has been accepted! Australia, here we come!</li>
+<li>Our DAAD <font color="blue"><strong>funding</strong></font> proposal together with Hamid Rezatofighi and Ian Reid has been accepted! Australia, here we come!</li>
 
 <br>
 
@@ -36,7 +36,7 @@ image:
 
 <br>
 
-<li>Daniel Cremers, Ian Reid, Rene Vidal and myself will be organizing a Dagstuhl Seminar on <a href="http://www.dagstuhl.de/en/program/calendar/semhp/?semnr=17391"><strong>Deep Learning for Computer Vision</strong></a> in September 2017! </li>
+<li>Daniel Cremers, Ian Reid, Rene Vidal and myself will be organizing a <font color="green"><strong>Dagstuhl Seminar</strong></font> on <a href="http://www.dagstuhl.de/en/program/calendar/semhp/?semnr=17391"><strong>Deep Learning for Computer Vision</strong></a> in September 2017! </li>
 
 <br>
 
