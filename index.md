@@ -11,6 +11,10 @@ image:
 
 <ul>
 
+<li>Check out or new CVPR 2017 <a href="https://arxiv.org/abs/1611.05198"><font color="red"><strong>paper</strong></font></a> on one-shot video segmentation! State-of-the-art results on DAVIS by a large margin!</li>
+
+<br>
+
 <li>We will be organizing a full-day Joint BMTT-PETS workshop at CVPR 2017!</li>
 
 <br>
@@ -20,9 +24,7 @@ image:
 <br>
 
 
-<li>Check out or new <a href="https://arxiv.org/abs/1611.05198"><font color="red"><strong>paper</strong></font></a> on one-shot video segmentation! State-of-the-art results on DAVIS by a large margin!</li>
 
-<br>
 
 <li>Our DAAD funding proposal together with Hamid Rezatofighi and Ian Reid has been accepted! Australia, here we come!</li>
 
@@ -69,12 +71,8 @@ image:
 <br>
 <li>New version of the ICCV 2011 <a href="{{ site.url }}/code"><font color="blue"><strong>code</strong></font></a> is available!</li>
 
---> 
+-->
 
 </ul>
 
 </section>
-
-
-
-
