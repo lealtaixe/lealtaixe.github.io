@@ -11,6 +11,12 @@ image:
 
 <ul>
 
+
+<li>Deep Depth From Focus is <a href="https://arxiv.org/abs/1704.01085"><font color="red"><strong>here</strong></font></a>! New dataset with over 700 light-field images and focal stacks together with cool results with deep architectures!</li>
+
+<br>
+
+
 <li>CVPR 2017 <a href="https://arxiv.org/abs/1611.05198"><font color="red"><strong>paper</strong></font></a> accepted! OSVOS or one-shot video object segmentation has state-of-the-art results on DAVIS by a large margin!</li>
 
 <br>
