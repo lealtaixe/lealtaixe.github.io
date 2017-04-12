@@ -11,6 +11,9 @@ image:
 
 <ul>
 
+<li>Tracking the trackers! Our <a href="https://arxiv.org/abs/1704.02781"><font color="red"><strong>analysis</strong></font></a> of 50 state-of-the-art trackers on 11000 frames! </li>
+
+<br>
 
 <li>Deep Depth From Focus is <a href="https://arxiv.org/abs/1704.01085"><font color="red"><strong>here</strong></font></a>! New dataset with over 700 light-field images and focal stacks together with cool results with deep architectures!</li>
 
