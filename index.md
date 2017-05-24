@@ -11,6 +11,12 @@ image:
 
 <ul>
 
+
+<li>Combining different features for multi-object tracking? Check out our new <a href="https://arxiv.org/abs/1705.08314"><font color="red"><strong>formulation</strong></font></a>!  </li>
+
+<br>
+
+
 <li>Tracking the trackers! Our <a href="https://arxiv.org/abs/1704.02781"><font color="red"><strong>analysis</strong></font></a> of 50 state-of-the-art trackers on 11000 frames! </li>
 
 <br>
