@@ -12,6 +12,11 @@ image:
 <ul>
 
 
+<li>ICCV 2017 paper accepted! Our new work <a href="https://arxiv.org/abs/1611.07890"><font color="red"><strong>paper</strong></font></a> on image-based localization with LSTMs for feature correlation! </li>
+
+<br>
+
+
 <li>Combining different features for multi-object tracking? Check out our new <a href="https://arxiv.org/abs/1705.08314"><font color="red"><strong>formulation</strong></font></a>!  </li>
 
 <br>
@@ -39,9 +44,7 @@ image:
 
 <br>
 
-<li>Excited to present our new <a href="https://arxiv.org/abs/1611.07890"><font color="red"><strong>paper</strong></font></a> on image-based localization with LSTMs for feature correlation! </li>
 
-<br>
 
 
 <li>Our DAAD <font color="blue"><strong>funding</strong></font> proposal together with Hamid Rezatofighi and Ian Reid has been accepted! Australia, here we come!</li>
