@@ -12,7 +12,7 @@ image:
 <ul>
 
 
-<li>ICCV 2017 paper accepted! Our new work <a href="https://arxiv.org/abs/1611.07890"><font color="red"><strong>paper</strong></font></a> on image-based localization with LSTMs for feature correlation! </li>
+<li>ICCV 2017 paper accepted! Our new <a href="https://arxiv.org/abs/1611.07890"><font color="red"><strong>paper</strong></font></a> on image-based localization with LSTMs for feature correlation! </li>
 
 <br>
 
