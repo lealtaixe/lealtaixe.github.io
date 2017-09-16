@@ -48,7 +48,7 @@ comments: false
    <li> I like to code in MatLab and speed things up with some C++, though I am learning Python right now and I like it!</li>
     <br>
 
- <li> I have taught courses on tracking, network flows and organized practical courses on panorama stitching and structure-from motion. I am excited about the next practical course on Deep Learning that we are organizing!</li> 
+ <li> I have taught courses on deep learning, tracking, network flows and organized practical courses on deep learning for computer vision, panorama stitching, structure-from motion.</li> 
  
 </ul> </div>
 

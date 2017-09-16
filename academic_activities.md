@@ -13,6 +13,9 @@ comments: false
 
 ### Teaching
 
+* Winter 2017: Lecturer of the course on [Deep Learning for Computer Vision](https://vision.cs.tum.edu/teaching/ws2017/dl4cv).
+<br />Topics: introduction to Machine Learning, Neural Networks, CNN, RNN, LSTM, GANs, RL.
+
 * Summer 2017: Lecturer of the course on [Deep Learning for Computer Vision](https://vision.cs.tum.edu/teaching/ss2017/dl4cv).
 <br />Topics: introduction to Machine Learning, Neural Networks, CNN, RNN, LSTM, GANs, RL.
 
