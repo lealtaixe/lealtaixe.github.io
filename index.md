@@ -20,6 +20,11 @@ image:
 
 <br>
 
+<li>OSVOS^S is <a href="https://arxiv.org/pdf/1709.06031"><font color="red"><strong>ready</strong></font></a>! Semantically-guided one-shot video object segmentation with top performance on DAVIS!</li>
+
+
+<br>
+
 
 <li>Combining different features for multi-object tracking? Check out our new <a href="https://arxiv.org/abs/1705.08314"><font color="red"><strong>formulation</strong></font></a>!  </li>
 
