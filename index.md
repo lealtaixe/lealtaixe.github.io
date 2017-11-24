@@ -16,7 +16,7 @@ image:
 <br>
 
 <li>I am a <a href="https://www.professoren.tum.de/index.php?id=3419
-"><strong>TUM Junior Fellow</strong></font></a>! </li>
+"><font color="blue"><strong>TUM Junior Fellow</strong></font></a>! </li>
 
 <br>
 
