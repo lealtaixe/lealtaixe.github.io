@@ -37,6 +37,10 @@ Topics: Structure From Motion.
 
 ### Community
 
+* Area chair for ECCV 2018.
+
+* Area chair for ACCV 2018.
+
 * Area chair for GCPR 2017.
 
 * Area chair for WACV 2017.

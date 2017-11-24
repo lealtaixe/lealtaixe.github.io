@@ -15,6 +15,18 @@ image:
 
 <br>
 
+<li>I am a <a href="https://www.professoren.tum.de/index.php?id=3419
+"><font color="red"><strong>TUM Junior Fellow</strong></font></a>! </li>
+
+<br>
+
+
+
+
+<li>I will serve as Area Chair for ECCV and ACCV 2018. </li>
+
+<br>
+
 
 <li>ICCV 2017 paper accepted! Our new <a href="https://arxiv.org/abs/1611.07890"><font color="red"><strong>paper</strong></font></a> on image-based localization with LSTMs for feature correlation! </li>
 
@@ -44,29 +56,17 @@ image:
 
 <br>
 
-<li>I will be teaching a brand new <a href="https://vision.cs.tum.edu/teaching/ss2017/dl4cv">Deep Learning for Computer Vision</a> <font color="orange"><strong>lecture</strong></font> at TUM next semester!</li>
+<li>I am teaching a brand new <a href="https://vision.cs.tum.edu/teaching/ss2017/dl4cv">Deep Learning for Computer Vision</a> <font color="orange"><strong>lecture</strong></font> at TUM!</li>
 
 
 <br>
-
-<li>We will be organizing a full-day <a href="https://motchallenge.net/workshops/bmtt-pets2017/">Joint BMTT-PETS</a> <font color="green"><strong>workshop</strong></font> at CVPR 2017!</li>
-
-<br>
-
-
 
 
 <li>Our DAAD <font color="blue"><strong>funding</strong></font> proposal together with Hamid Rezatofighi and Ian Reid has been accepted! Australia, here we come!</li>
 
 <br>
 
-<li>Check out or new <a href="https://arxiv.org/pdf/1607.07304"><font color="red"><strong>paper</strong></font></a> on integration of multi-level features for multi-target tracking! </li>
 
-<br>
-
-<li>Daniel Cremers, Ian Reid, Rene Vidal and myself will be organizing a <font color="green"><strong>Dagstuhl Seminar</strong></font> on <a href="http://www.dagstuhl.de/en/program/calendar/semhp/?semnr=17391"><strong>Deep Learning for Computer Vision</strong></a> in September 2017! </li>
-
-<br>
 
 <!-- <li>New <a href="https://arxiv.org/pdf/1604.07866.pdf"><font color="red"><strong>paper</strong></font></a> on tracking with siamese neural networks to be presented at the DeepVision workshop at CVPR 2016! </li>
 
