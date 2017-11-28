@@ -21,8 +21,6 @@ image:
 <br>
 
 
-
-
 <li>I will serve as Area Chair for ECCV and ACCV 2018. </li>
 
 <br>
