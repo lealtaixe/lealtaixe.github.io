@@ -11,6 +11,12 @@ image:
 
 <ul>
 
+<li>I am extremely happy to anounce that I will join TUM as a Tenure-Track Professor starting February 1st!  
+</li>
+
+<br>
+
+
 <li>I am very excited to announce that I have been granted a <a href="https://www.humboldt-foundation.de/web/52671081.html"><font color="blue"><strong>Sofja Kovalevskaja Award</strong></font></a> of 1.65 million € from the Humboldt Foundation to start my own research group at TUM!</li>
 
 <br>
