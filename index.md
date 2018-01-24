@@ -11,7 +11,7 @@ image:
 
 <ul>
 
-<li>I am extremely happy to anounce that I will join TUM as a Tenure-Track Professor starting February 1st!  
+<li>I am extremely happy to anounce that I will start as a <strong>Tenure-Track Professor</strong> at the Technical University Munich on February 1st!  
 </li>
 
 <br>
