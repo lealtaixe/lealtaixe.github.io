@@ -21,9 +21,9 @@ leal.taixe (at) tum.de
 
   <img src="{{ site.url }}/images/contact/location.png" alt="Location" width="30"> <br><br>
 
-Laura Leal-Taixe <br>
+Prof. Dr. Laura Leal-Taixe <br>
 Technical University Munich<br>
-Computer Vision Group, I09<br>
+Dynamic Vision and Learning Group, I09<br>
 Boltzmannstrasse 3<br>
  85748 Garching<br>
  Germany<br>
@@ -31,9 +31,9 @@ Boltzmannstrasse 3<br>
 <br><br> 
 <img src="{{ site.url }}/images/contact/phone.png" alt="Phone" width="30"> <br><br>
 
-Tel: +49-89-289-17759<br>
+Tel: +49-89-289-17786<br>
 Fax: +49-89-289-17757<br>
-Office: 02.09.044<br>
+Office: 02.09.043<br>
  
   
   

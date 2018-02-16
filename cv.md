@@ -13,7 +13,10 @@ comments: false
     <p align="center">
     <img src="{{ site.url }}/images/CV/job.png" alt="Work Experience"  width="70">
     </p>
-  <div style="text-align:center"><ul><li>I am a <strong> research group leader </strong> at the <a href="http://www.tum.de/en/homepage/" target="_blank">Technical University of Munich</a> and a recipient of the <a href="https://www.humboldt-foundation.de/web/52671081.html" target="_blank"> Sofja Kovalevskaja Award</a> from the <a href="https://www.humboldt-foundation.de/web/home.html" target="_blank"> Humboldt Foundation</a>.</li>
+  <div style="text-align:center"><ul>
+  <li>I am a <strong> tenure-track professor </strong> at the <a href="http://www.tum.de/en/homepage/" target="_blank">Technical University of Munich</a> leading the Dynamic Vision and Learning group.</li>
+  <br>
+  <li>I am a <strong> research group leader </strong> at the <a href="http://www.tum.de/en/homepage/" target="_blank">Technical University of Munich</a> and a recipient of the <a href="https://www.humboldt-foundation.de/web/52671081.html" target="_blank"> Sofja Kovalevskaja Award</a> from the <a href="https://www.humboldt-foundation.de/web/home.html" target="_blank"> Humboldt Foundation</a>.</li>
   <br>
   <li>I spent a year as a <strong> postdoc </strong> at the <a href="https://vision.in.tum.de/">Computer Vision Group</a> of the <a href="http://www.tum.de/en/homepage/" target="_blank">Technical University of Munich</a> working with <a href="https://vision.in.tum.de/members/cremers">Prof. Daniel Cremers</a>. </li>
   <br>
