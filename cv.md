@@ -64,7 +64,7 @@ comments: false
   <div style="text-align:center"><ul>
   El <strong>catal&agrave;</strong> &eacute;s la meva llengua materna. 
   <br>
-My <strong>english</strong> is hopefully awesome.
+My <strong>English</strong> is hopefully awesome.
  <br>
  Tambi&eacute;n hablo <strong>espa&ntilde;ol</strong>.
     <br>
