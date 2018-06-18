@@ -11,6 +11,12 @@ image:
 
 <ul>
 
+
+<li>This website is no longer maintained. You can find my new website <a href="https://dvl.in.tum.de/team/lealtaixe/"><font color="orange"><strong>here</strong></font></a>
+</li>
+
+<br>
+
 <li>I am extremely happy to anounce that I will start as a <strong>Tenure-Track Professor</strong> at the Technical University Munich on February 1st!  
 </li>
 
