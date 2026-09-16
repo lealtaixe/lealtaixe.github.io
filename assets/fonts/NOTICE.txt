@@ -1,0 +1,13 @@
+NVIDIA Sans
+
+The NVIDIA Sans font files are provided by NVIDIA and retain their original
+embedded copyright and proprietary notices. Use is governed by the NVIDIA
+Font Software End User License Agreement linked below.
+
+Official website font sources, retrieved September 15, 2026:
+https://images.nvidia.com/etc/designs/nvidiaGDC/clientlibs_base/fonts/nvidia-sans/GLOBAL/NVIDIASans_W_Rg.woff2
+https://images.nvidia.com/etc/designs/nvidiaGDC/clientlibs_base/fonts/nvidia-sans/GLOBAL/NVIDIASans_W_Md.woff2
+https://images.nvidia.com/etc/designs/nvidiaGDC/clientlibs_base/fonts/nvidia-sans/GLOBAL/NVIDIASans_W_Bd.woff2
+
+NVIDIA Font Software End User License Agreement:
+https://raytracing-docs.nvidia.com/optix8/ext/fonts/nvidia-sans/NVIDIA_Sans_EULA_20220602_FINAL.pdf
